@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">bmi1.2</string>
+    <string name="BMI">BMI</string>
+    <string name="height">Enter height:</string>
+    <string name="height_cm">in cm</string>
+
+    <string name="weight">Enter weight:</string>
+    <string name="weight_kg">in kg</string>
+    <string name="calculate">Calculate</string>
+
+    <string name="healthy">HEALTHY</string>
+    <string name="congratulation">Congratulations!</string>
+    <string name="overweight">OVERWEIGHT</string>
+    <string name="worry">Need to worry!</string>
+    <string name="underweight">UNDERWEIGHT</string>
+
+    <string name="result">Your BMI :</string>
+
+    <string name="actual_bmi">BMI should be between 18 and 25</string>
+</resources>
